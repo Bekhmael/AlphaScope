@@ -1,9 +1,7 @@
 If you **don’t** want your character to be included in PlayerScope, you can use this form to opt out. - https://forms.gle/pzfmE8PYak2tH91M8
 
 
-🟢 PlayerScope Discord server: https://discord.gg/rsT3hSUNmm
 
-[![PlayerScope](https://discord.com/api/guilds/1326546606115262464/embed.png?style=banner1)](https://discord.gg/rsT3hSUNmm)
 
 ## Credits
 
