@@ -5,7 +5,7 @@
     "Punchline": "Track players and retainers. (Crowdsourced)",
     "Description": "Keeps track of players and who a retainer belongs to. Alt characters can also be tracked if they have been seen before.\n--Currently only for whitelisted players.",
     "AssemblyVersion": "1.0.5.7",
-    "InternalName": "AlphaScope",
+    "InternalName": "PlayerScope",
     "RepoUrl": "https://github.com/Bekhmael/AlphaScope",
     "IconUrl": "https://raw.githubusercontent.com/Bekhmael/AlphaScope/master/icon.png",
     "DownloadLinkInstall": "https://github.com/Bekhmael/AlphaScope/releases/download/1.0.5.7/latest.zip",
