@@ -1,7 +1,7 @@
 [
   {
     "Name": "AlphaScope",
-    "Author": "SicakBirTebessüm",
+    "Author": "Bekhmael",
     "Punchline": "Track players and retainers. (Crowdsourced)",
     "Description": "Keeps track of players and who a retainer belongs to. Alt characters can also be tracked if they have been seen before.\n--Currently only for whitelisted players.",
     "AssemblyVersion": "1.0.5.7",
